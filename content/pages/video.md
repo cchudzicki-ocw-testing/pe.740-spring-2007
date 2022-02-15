@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Video
-type: CourseSection
 uid: d7d39298-c4cb-d194-8b2e-ed0794b5b66b
 ---
 
