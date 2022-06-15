@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides videos of basic fencing movements.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Video
